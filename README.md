@@ -14,3 +14,8 @@ Install the required library using: pip install pygame
 - Stop music playback
 - Pause and resume music playback
 - Set volume
+
+## How to use this project
+- Download this repository
+- Install the required library
+- Run the code
