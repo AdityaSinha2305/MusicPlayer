@@ -19,3 +19,5 @@ Install the required library using: pip install pygame
 - Download this repository
 - Install the required library
 - Run the code
+
+![Screenshot 2023-12-23 122227](https://github.com/AdityaSinha2305/MusicPlayer/assets/103363660/38bae774-4597-48bd-9390-ec3437be6665)
