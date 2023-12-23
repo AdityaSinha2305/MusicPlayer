@@ -9,6 +9,10 @@ This is a basic command-line music player implemented in Python using the pygame
 
 Install the required library using: pip install pygame
 
+## Technologies
+- Python
+- VS Code (IDE)
+
 ## Features
 - Play music from an MP3 file
 - Stop music playback
@@ -18,6 +22,7 @@ Install the required library using: pip install pygame
 ## How to use this project
 - Download this repository
 - Install the required library
-- Run the code
+- Run the musicplayer.py file in any IDE
 
+## Output
 ![Screenshot 2023-12-23 122227](https://github.com/AdityaSinha2305/MusicPlayer/assets/103363660/38bae774-4597-48bd-9390-ec3437be6665)
