@@ -41,7 +41,7 @@ def main():
     print("Select a music file.")
     file_path = choose_file()
     li = file_path.split('/')
-    print("List: ",li)
+    
 
     if not file_path:
         print("No file selected. Exiting.")
