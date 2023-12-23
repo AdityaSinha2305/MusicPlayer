@@ -1,4 +1,4 @@
-# Music Player using Python
+# Music Player
 
 This is a basic command-line music player implemented in Python using the pygame library. It allows you to play, stop, pause, resume, and set the volume for music playback.
 
